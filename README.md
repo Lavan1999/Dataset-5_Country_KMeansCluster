@@ -6,7 +6,7 @@ This repository contains the python code and documentation for analyzing the "Co
 Our goal is to explore, analyze, and draw insights from this data.
 
 ## Dataset Description
-The "Country_clusters" dataset contains information about Annual income and Spending Score. Each entry represents a unique 
+The "Country_clusters" dataset contains information about Language, represents the latitude and longitude. Each entry represents a unique 
 dining experience and includes the following columns:
 
 - **Country**: Indicates the name of the country.
