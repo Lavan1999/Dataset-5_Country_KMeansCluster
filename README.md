@@ -13,12 +13,12 @@ dining experience and includes the following columns:
 - **Latitude**: Represents the latitude coordinates of the country's geographic center.
 - **Longitude**: Represents the longitude coordinates of the country's geographic center.
 - **Language**: Denotes the primary language spoken in the country.
-
+- 
 ## Repository Structure
 - `Country_cluster.csv`: Contains the raw data files used in the analysis.
 - `Country_cluster.ipynb`: Jupyter notebooks containing the code for data exploration, preprocessing, analysis, and visualization.
 - `conclusion/`: Output files, visualizations, and summaries generated during the analysis.
-- `README.md`: This file, providing an overview of the project.
+- `README.md`: This file, providing an overview of the projects.
 
 ## Dependencies
 - Python
